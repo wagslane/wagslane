@@ -1,4 +1,4 @@
-### I'm Lane, welcome to my GitHub profile
+### I'm Lane Wagner
 
 - 🖥️ I've been coding in Go primarily for over 6 years
 - 🏗️ I'm the founder of [Boot.dev](https://boot.dev)
